@@ -1,5 +1,6 @@
 # Bootcamp Kitchen
 
+![bootcamp-kitchen-logo](https://github.com/Christener19/Bootcamp-Kitchen/assets/134003152/95026597-7973-40be-a686-dbd1141bf6e3)
 
 ## Overview
 Welcome to Bootcamp Kitchen, your solution for finding 15 minutes recipes tailored to your preferences, whether it be specific ingredients or dietary requirements.
